@@ -1,0 +1,11 @@
+{
+  "name": "reverse-proxy",
+  "version": "1.0.0",
+  "description": "Reverse proxy to mask CORS for local host",
+  "main": "index.js",
+  "author": "2359media.com",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.18.0"
+  }
+}
