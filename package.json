@@ -6,6 +6,6 @@
   "author": "2359media.com",
   "license": "MIT",
   "dependencies": {
-    "http-proxy": "^1.18.0"
+    "http-proxy": "^1.18.1"
   }
 }
